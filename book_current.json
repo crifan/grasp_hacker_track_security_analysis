@@ -1,0 +1,22 @@
+{
+  "title": "掌握黑客的行踪：安全分析",
+  "description": "通过安全分析，掌握黑客的行踪轨迹。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "grasp_hacker_track_security_analysis"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/grasp_hacker_track_security_analysis/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/grasp_hacker_track_security_analysis/pdf/grasp_hacker_track_security_analysis.pdf"
+    }
+  }
+}
