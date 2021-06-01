@@ -3,6 +3,9 @@
 * `网络分析`=`Network Analysis`=`NA`
   * 关系密切的说法
     * `NTA`=`Network Traffic Analysis`=`网络流量分析`
+      * `NTAS`=`Network Traffic Analysis System`=`网络流量分析系统`
+        * 别称：`威胁检测系统`
+          * 因为：可以从网络流量中分析出攻击，从而检测出威胁
     * `Network Scan`=`网络扫描`
   * 工具
     * `网络扫描工具`
